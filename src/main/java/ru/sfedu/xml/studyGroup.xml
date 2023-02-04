@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<wrapper>
+    <wrapper>
+        <entry>
+            <key>1</key>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="studyGroup">
+                <groupCode>09.03.03</groupCode>
+                <id>1</id>
+                <classesScheduleId>0</classesScheduleId>
+                <eventsScheduleId>0</eventsScheduleId>
+                <sessionScheduleId>0</sessionScheduleId>
+                <course>3</course>
+                <specialization>Прикладная информатика</specialization>
+                <disciplines>
+                    <discipline>
+                        <name>Архитектура Информационных Систем</name>
+                        <idTeacher>1</idTeacher>
+                        <disciplineId>1</disciplineId>
+                    </discipline>
+                </disciplines>
+            </value>
+        </entry>
+    </wrapper>
+</wrapper>

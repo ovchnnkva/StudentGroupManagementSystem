@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<wrapper>
+    <wrapper>
+        <entry>
+            <key>1</key>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="event">
+                <id>1</id>
+                <scheduleId>1</scheduleId>
+                <name>Архитектура Информационных систем</name>
+                <time>08:00</time>
+                <date>Понедельник</date>
+            </value>
+        </entry>
+        <entry>
+            <key>2</key>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="event">
+                <id>2</id>
+                <scheduleId>1</scheduleId>
+                <name>Основы системного анализа</name>
+                <time>9:50</time>
+                <date>Понедельник</date>
+            </value>
+        </entry>
+    </wrapper>
+</wrapper>

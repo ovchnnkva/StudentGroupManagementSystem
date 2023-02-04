@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<wrapper>
+    <wrapper>
+        <entry>
+            <key>1</key>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="lectionMaterial">
+                <discipline>
+                    <name>Архитектура Информационных Систем</name>
+                    <idTeacher>1</idTeacher>
+                    <disciplineId>1</disciplineId>
+                </discipline>
+                <teacherFile></teacherFile>
+                <teacherComment></teacherComment>
+                <name>Методичка</name>
+                <idLection>1</idLection>
+                <disciplineId>1</disciplineId>
+            </value>
+        </entry>
+    </wrapper>
+</wrapper>

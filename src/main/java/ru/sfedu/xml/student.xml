@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<wrapper>
+    <wrapper>
+        <entry>
+            <key>1</key>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="student">
+                <id>1</id>
+                <name>Иванов Иван Иванович</name>
+                <birthday>2002-11-20T00:00:00+03:00</birthday>
+                <scores/>
+                <studyGroupId>1</studyGroupId>
+            </value>
+        </entry>
+    </wrapper>
+</wrapper>

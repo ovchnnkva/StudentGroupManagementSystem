@@ -1,0 +1,254 @@
+2022-12-07 18:26:57,781 ERROR r.s.D.DataBaseProvider [main] studyGroup record with id=1 has already been saved
+2022-12-07 18:26:57,825 ERROR r.s.D.DataBaseProvider [main] discipline in study group record has already been saved
+2022-12-07 18:26:57,876 ERROR r.s.D.DataBaseProvider [main] there is no record with this id in
+2022-12-07 18:26:57,897 ERROR r.s.D.DataBaseProvider [main] there is no record with this id in
+2022-12-07 18:26:58,079 ERROR r.s.D.DataBaseProvider [main] there is no study group record with id=6
+2022-12-07 18:26:58,176 ERROR r.s.D.DataBaseProvider [main] there is no teacher record with id=3
+2022-12-07 18:26:58,177 ERROR r.s.D.DataBaseProvider [main] there is no record with this id in
+2022-12-07 18:26:58,241 ERROR r.s.D.DataBaseProvider [main] java.lang.Exception: there is no record with this student id
+2022-12-07 18:26:58,245 ERROR r.s.D.DataBaseProvider [main] there is no teacher record with id=7
+2022-12-07 18:26:58,252 ERROR r.s.D.DataBaseProvider [main] there is no record with this id
+2022-12-07 18:26:58,285 ERROR r.s.D.DataBaseProvider [main] scores record has already been saved
+2022-12-07 18:26:58,304 ERROR r.s.D.DataBaseProvider [main] schedule record with id=2 has already been saved
+2022-12-07 18:28:22,482 ERROR r.s.D.DataBaseProvider [main] studyGroup record with id=1 has already been saved
+2022-12-07 18:28:22,519 ERROR r.s.D.DataBaseProvider [main] discipline in study group record has already been saved
+2022-12-07 18:28:22,562 ERROR r.s.D.DataBaseProvider [main] there is no record with this id in
+2022-12-07 18:28:22,580 ERROR r.s.D.DataBaseProvider [main] there is no record with this id in
+2022-12-07 18:28:22,829 ERROR r.s.D.DataBaseProvider [main] there is no study group record with id=6
+2022-12-07 18:28:22,912 ERROR r.s.D.DataBaseProvider [main] there is no teacher record with id=3
+2022-12-07 18:28:22,913 ERROR r.s.D.DataBaseProvider [main] there is no record with this id in
+2022-12-07 18:28:22,982 ERROR r.s.D.DataBaseProvider [main] java.lang.Exception: there is no record with this student id
+2022-12-07 18:28:22,986 ERROR r.s.D.DataBaseProvider [main] there is no teacher record with id=7
+2022-12-07 18:28:22,992 ERROR r.s.D.DataBaseProvider [main] there is no record with this id
+2022-12-07 18:28:23,025 ERROR r.s.D.DataBaseProvider [main] scores record has already been saved
+2022-12-07 18:28:23,039 ERROR r.s.D.DataBaseProvider [main] schedule record with id=2 has already been saved
+2022-12-07 18:28:50,324 ERROR r.s.D.DataBaseProvider [main] studyGroup record with id=1 has already been saved
+2022-12-07 18:28:50,366 ERROR r.s.D.DataBaseProvider [main] discipline in study group record has already been saved
+2022-12-07 18:28:50,417 ERROR r.s.D.DataBaseProvider [main] there is no record with this id in
+2022-12-07 18:28:50,437 ERROR r.s.D.DataBaseProvider [main] there is no record with this id in
+2022-12-07 18:28:50,815 ERROR r.s.D.DataBaseProvider [main] there is no study group record with id=6
+2022-12-07 18:28:50,905 ERROR r.s.D.DataBaseProvider [main] there is no teacher record with id=3
+2022-12-07 18:28:50,907 ERROR r.s.D.DataBaseProvider [main] there is no record with this id in
+2022-12-07 18:28:50,970 ERROR r.s.D.DataBaseProvider [main] java.lang.Exception: there is no record with this student id
+2022-12-07 18:28:50,973 ERROR r.s.D.DataBaseProvider [main] there is no teacher record with id=7
+2022-12-07 18:28:50,979 ERROR r.s.D.DataBaseProvider [main] there is no record with this id
+2022-12-07 18:28:51,012 ERROR r.s.D.DataBaseProvider [main] scores record has already been saved
+2022-12-07 18:28:51,028 ERROR r.s.D.DataBaseProvider [main] schedule record with id=2 has already been saved
+2022-12-07 18:29:20,463 ERROR r.s.D.DataBaseProvider [main] studyGroup record with id=1 has already been saved
+2022-12-07 18:29:20,503 ERROR r.s.D.DataBaseProvider [main] discipline in study group record has already been saved
+2022-12-07 18:29:20,553 ERROR r.s.D.DataBaseProvider [main] there is no record with this id in
+2022-12-07 18:29:20,573 ERROR r.s.D.DataBaseProvider [main] there is no record with this id in
+2022-12-07 18:29:20,880 ERROR r.s.D.DataBaseProvider [main] there is no study group record with id=6
+2022-12-07 18:29:20,972 ERROR r.s.D.DataBaseProvider [main] there is no teacher record with id=3
+2022-12-07 18:29:20,974 ERROR r.s.D.DataBaseProvider [main] there is no record with this id in
+2022-12-07 18:29:21,045 ERROR r.s.D.DataBaseProvider [main] java.lang.Exception: there is no record with this student id
+2022-12-07 18:29:21,050 ERROR r.s.D.DataBaseProvider [main] there is no teacher record with id=7
+2022-12-07 18:29:21,057 ERROR r.s.D.DataBaseProvider [main] there is no record with this id
+2022-12-07 18:29:21,091 ERROR r.s.D.DataBaseProvider [main] scores record has already been saved
+2022-12-07 18:29:21,107 ERROR r.s.D.DataBaseProvider [main] schedule record with id=2 has already been saved
+2022-12-07 18:30:07,268 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:07,270 INFO r.s.S.ClassesSchedule [main] create classes schedule
+2022-12-07 18:30:07,271 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:07,271 INFO r.s.S.SessionSchedule [main] create session schedule
+2022-12-07 18:30:07,272 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:07,272 INFO r.s.S.SessionSchedule [main] create session schedule
+2022-12-07 18:30:07,272 INFO r.s.S.StudyGroup [main] create study group
+2022-12-07 18:30:07,273 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:07,273 INFO r.s.S.ClassesSchedule [main] create classes schedule
+2022-12-07 18:30:07,273 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:07,274 INFO r.s.S.SessionSchedule [main] create session schedule
+2022-12-07 18:30:07,274 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:07,274 INFO r.s.S.SessionSchedule [main] create session schedule
+2022-12-07 18:30:07,275 INFO r.s.S.StudyGroup [main] create study group
+2022-12-07 18:30:07,275 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:07,275 INFO r.s.S.ClassesSchedule [main] create classes schedule
+2022-12-07 18:30:07,276 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:07,276 INFO r.s.S.SessionSchedule [main] create session schedule
+2022-12-07 18:30:07,276 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:07,277 INFO r.s.S.EventsSchedule [main] create events schedule
+2022-12-07 18:30:07,277 INFO r.s.S.Discipline [main] discipline create
+2022-12-07 18:30:07,278 INFO r.s.S.Discipline [main] discipline create
+2022-12-07 18:30:07,278 INFO r.s.S.Discipline [main] discipline create
+2022-12-07 18:30:07,283 INFO r.s.S.Student [main] Create student 
+2022-12-07 18:30:07,283 INFO r.s.S.Student [main] Create student 
+2022-12-07 18:30:07,721 INFO r.s.D.DataBaseProvider [main] connect to dataBase
+2022-12-07 18:30:07,722 INFO r.s.S.Teacher [main] append 
+discipline: Архитектура Информационных Систем to teacher Жмайлов Борис Борисович
+2022-12-07 18:30:07,725 INFO r.s.S.Teacher [main] append 
+discipline: Философия to teacher Давыдов Платон Анатольевич
+2022-12-07 18:30:07,726 INFO r.s.S.StudyGroup [main] discipline append to 09.03.03
+2022-12-07 18:30:07,726 INFO r.s.S.StudyGroup [main] discipline append to 23.01.01
+2022-12-07 18:30:07,727 INFO r.s.S.Teacher [main] append 
+discipline: Основы системного анализа to teacher Троянов Алексей Дмитриевич
+2022-12-07 18:30:07,728 INFO r.s.S.PracticalMaterial [main] create practical material
+2022-12-07 18:30:07,729 INFO r.s.S.Teacher [main] teacher UML UseCase Diagram create practical material
+2022-12-07 18:30:07,730 INFO r.s.S.PracticalMaterial [main] create practical material
+2022-12-07 18:30:07,731 INFO r.s.S.Teacher [main] teacher Тест create practical material
+2022-12-07 18:30:07,731 INFO r.s.S.LectionMaterial [main] create lection material
+2022-12-07 18:30:07,732 INFO r.s.S.Teacher [main] teacher Методичка create lection material
+2022-12-07 18:30:07,733 INFO r.s.S.Event [main] Create event
+2022-12-07 18:30:07,734 INFO r.s.S.Schedule [main] event Архитектура Информационных систем append to CLASSES schedule
+2022-12-07 18:30:07,735 INFO r.s.S.Event [main] Create event
+2022-12-07 18:30:07,736 INFO r.s.S.Schedule [main] event Архитектура Информационных систем append to SESSION schedule
+2022-12-07 18:30:07,736 INFO r.s.S.Event [main] Create event
+2022-12-07 18:30:07,736 INFO r.s.S.Schedule [main] event Собрание append to EVENTS schedule
+2022-12-07 18:30:07,765 INFO r.s.D.DataBaseProvider [main] save record
+2022-12-07 18:30:07,777 ERROR r.s.D.DataBaseProvider [main] studyGroup record with id=1 has already been saved
+2022-12-07 18:30:07,817 ERROR r.s.D.DataBaseProvider [main] discipline in study group record has already been saved
+2022-12-07 18:30:07,823 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:07,826 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:07,826 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:07,827 INFO r.s.S.SessionSchedule [main] create session schedule
+2022-12-07 18:30:07,828 INFO r.s.S.ScheduleFactory [main] create SESSION in factory
+2022-12-07 18:30:07,828 INFO r.s.S.Event [main] Create event
+2022-12-07 18:30:07,831 INFO r.s.S.Event [main] Create event
+2022-12-07 18:30:07,831 INFO r.s.S.Schedule [main] event Архитектура Информационных систем append to SESSION schedule
+2022-12-07 18:30:07,839 INFO r.s.D.DataBaseProvider [main] save record
+2022-12-07 18:30:07,855 INFO r.s.D.DataBaseProvider [main] update event record with id=3
+2022-12-07 18:30:07,856 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:07,857 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:07,858 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:07,858 INFO r.s.S.EventsSchedule [main] create events schedule
+2022-12-07 18:30:07,859 INFO r.s.S.ScheduleFactory [main] create EVENTS in factory
+2022-12-07 18:30:07,860 INFO r.s.S.Event [main] Create event
+2022-12-07 18:30:07,861 INFO r.s.S.Event [main] Create event
+2022-12-07 18:30:07,862 INFO r.s.S.Schedule [main] event Собрание append to EVENTS schedule
+2022-12-07 18:30:07,867 INFO r.s.S.LectionMaterial [main] create lection material
+2022-12-07 18:30:07,868 ERROR r.s.D.DataBaseProvider [main] there is no record with this id in
+2022-12-07 18:30:07,872 INFO r.s.S.Discipline [main] discipline create
+2022-12-07 18:30:07,881 INFO r.s.S.Discipline [main] discipline create
+2022-12-07 18:30:07,883 INFO r.s.D.DataBaseProvider [main] get discipline by id=1
+2022-12-07 18:30:07,888 ERROR r.s.D.DataBaseProvider [main] there is no record with this id in
+2022-12-07 18:30:07,891 INFO r.s.S.Discipline [main] discipline create
+2022-12-07 18:30:07,896 INFO r.s.S.Discipline [main] discipline create
+2022-12-07 18:30:07,898 INFO r.s.D.DataBaseProvider [main] get discipline by id=1
+2022-12-07 18:30:07,962 INFO r.s.D.DataBaseProvider [main] record can't save
+2022-12-07 18:30:07,966 INFO r.s.S.LectionMaterial [main] create lection material
+2022-12-07 18:30:07,969 INFO r.s.S.Discipline [main] discipline create
+2022-12-07 18:30:07,971 INFO r.s.D.DataBaseProvider [main] get discipline by id=1
+2022-12-07 18:30:07,973 INFO r.s.S.Teacher [main] teacher Жмайлов Борис Борисович commenting material Методичка
+2022-12-07 18:30:07,979 INFO r.s.D.DataBaseProvider [main] update lection material record with id1
+2022-12-07 18:30:08,046 INFO r.s.S.LectionMaterial [main] create lection material
+2022-12-07 18:30:08,048 INFO r.s.S.Discipline [main] discipline create
+2022-12-07 18:30:08,050 INFO r.s.D.DataBaseProvider [main] get discipline by id=1
+2022-12-07 18:30:08,054 INFO r.s.D.DataBaseProvider [main] update teacher with id=2
+2022-12-07 18:30:08,056 INFO r.s.S.Discipline [main] discipline create
+2022-12-07 18:30:08,058 INFO r.s.D.DataBaseProvider [main] get discipline by id=2
+2022-12-07 18:30:08,061 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:08,061 INFO r.s.S.ClassesSchedule [main] create classes schedule
+2022-12-07 18:30:08,062 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:08,062 INFO r.s.S.SessionSchedule [main] create session schedule
+2022-12-07 18:30:08,062 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:08,062 INFO r.s.S.SessionSchedule [main] create session schedule
+2022-12-07 18:30:08,063 INFO r.s.S.StudyGroup [main] create study group
+2022-12-07 18:30:08,064 ERROR r.s.D.DataBaseProvider [main] there is no study group record with id=6
+2022-12-07 18:30:08,074 INFO r.s.D.DataBaseProvider [main] update discipline record with id=3
+2022-12-07 18:30:08,075 INFO r.s.S.Discipline [main] discipline create
+2022-12-07 18:30:08,076 INFO r.s.D.DataBaseProvider [main] get discipline by id=3
+2022-12-07 18:30:08,080 INFO r.s.D.DataBaseProvider [main] record from tableteacherswith id 3 delete
+2022-12-07 18:30:08,168 INFO r.s.D.DataBaseProvider [main] record from tablelectionMaterialswith id 1 delete
+2022-12-07 18:30:08,170 ERROR r.s.D.DataBaseProvider [main] there is no teacher record with id=3
+2022-12-07 18:30:08,170 INFO r.s.S.LectionMaterial [main] create lection material
+2022-12-07 18:30:08,172 ERROR r.s.D.DataBaseProvider [main] there is no record with this id in
+2022-12-07 18:30:08,186 INFO r.s.S.Student [main] student Иванов Иван Иванович commenting practical material UML UseCase Diagram
+2022-12-07 18:30:08,202 INFO r.s.D.DataBaseProvider [main] update practical material record with id=1
+2022-12-07 18:30:08,203 INFO r.s.S.PracticalMaterial [main] create practical material
+2022-12-07 18:30:08,205 INFO r.s.S.Discipline [main] discipline create
+2022-12-07 18:30:08,207 INFO r.s.D.DataBaseProvider [main] get discipline by id=1
+2022-12-07 18:30:08,210 INFO r.s.S.PracticalMaterial [main] create practical material
+2022-12-07 18:30:08,212 INFO r.s.S.Discipline [main] discipline create
+2022-12-07 18:30:08,214 INFO r.s.D.DataBaseProvider [main] get discipline by id=1
+2022-12-07 18:30:08,219 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:08,219 INFO r.s.S.ClassesSchedule [main] create classes schedule
+2022-12-07 18:30:08,220 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:08,220 INFO r.s.S.SessionSchedule [main] create session schedule
+2022-12-07 18:30:08,221 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:08,221 INFO r.s.S.SessionSchedule [main] create session schedule
+2022-12-07 18:30:08,222 INFO r.s.S.StudyGroup [main] create study group
+2022-12-07 18:30:08,225 INFO r.s.S.Discipline [main] discipline create
+2022-12-07 18:30:08,227 INFO r.s.D.DataBaseProvider [main] get discipline by id=1
+2022-12-07 18:30:08,228 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:08,228 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:08,229 INFO r.s.S.ClassesSchedule [main] create classes schedule
+2022-12-07 18:30:08,229 INFO r.s.S.ScheduleFactory [main] create CLASSES in factory
+2022-12-07 18:30:08,230 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:08,232 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:08,232 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:08,233 INFO r.s.S.SessionSchedule [main] create session schedule
+2022-12-07 18:30:08,233 INFO r.s.S.ScheduleFactory [main] create SESSION in factory
+2022-12-07 18:30:08,234 INFO r.s.S.Event [main] Create event
+2022-12-07 18:30:08,236 INFO r.s.S.Event [main] Create event
+2022-12-07 18:30:08,236 INFO r.s.S.Schedule [main] event Архитектура Информационных систем append to SESSION schedule
+2022-12-07 18:30:08,236 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:08,237 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:08,237 INFO r.s.S.EventsSchedule [main] create events schedule
+2022-12-07 18:30:08,237 INFO r.s.S.ScheduleFactory [main] create EVENTS in factory
+2022-12-07 18:30:08,240 INFO r.s.D.DataBaseProvider [main] save record
+2022-12-07 18:30:08,249 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:08,250 INFO r.s.S.ClassesSchedule [main] create classes schedule
+2022-12-07 18:30:08,250 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:08,250 INFO r.s.S.SessionSchedule [main] create session schedule
+2022-12-07 18:30:08,250 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:08,250 INFO r.s.S.SessionSchedule [main] create session schedule
+2022-12-07 18:30:08,251 INFO r.s.S.StudyGroup [main] create study group
+2022-12-07 18:30:08,253 INFO r.s.S.Discipline [main] discipline create
+2022-12-07 18:30:08,255 INFO r.s.D.DataBaseProvider [main] get discipline by id=2
+2022-12-07 18:30:08,256 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:08,256 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:08,256 INFO r.s.S.ClassesSchedule [main] create classes schedule
+2022-12-07 18:30:08,257 INFO r.s.S.ScheduleFactory [main] create CLASSES in factory
+2022-12-07 18:30:08,257 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:08,257 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:08,258 INFO r.s.S.SessionSchedule [main] create session schedule
+2022-12-07 18:30:08,258 INFO r.s.S.ScheduleFactory [main] create SESSION in factory
+2022-12-07 18:30:08,258 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:08,259 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:08,259 INFO r.s.S.EventsSchedule [main] create events schedule
+2022-12-07 18:30:08,259 INFO r.s.S.ScheduleFactory [main] create EVENTS in factory
+2022-12-07 18:30:08,262 ERROR r.s.D.DataBaseProvider [main] java.lang.Exception: there is no record with this student id
+2022-12-07 18:30:08,267 ERROR r.s.D.DataBaseProvider [main] there is no teacher record with id=7
+2022-12-07 18:30:08,273 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:08,275 ERROR r.s.D.DataBaseProvider [main] there is no record with this id
+2022-12-07 18:30:08,286 INFO r.s.D.DataBaseProvider [main] update study group with id=1
+2022-12-07 18:30:08,287 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:08,289 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:08,289 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:08,289 INFO r.s.S.SessionSchedule [main] create session schedule
+2022-12-07 18:30:08,290 INFO r.s.S.ScheduleFactory [main] create SESSION in factory
+2022-12-07 18:30:08,290 INFO r.s.S.Event [main] Create event
+2022-12-07 18:30:08,292 INFO r.s.S.Event [main] Create event
+2022-12-07 18:30:08,292 INFO r.s.S.Schedule [main] event Архитектура Информационных систем append to SESSION schedule
+2022-12-07 18:30:08,300 INFO r.s.D.DataBaseProvider [main] update student record with id=1
+2022-12-07 18:30:08,303 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:08,303 INFO r.s.S.ClassesSchedule [main] create classes schedule
+2022-12-07 18:30:08,304 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:08,304 INFO r.s.S.SessionSchedule [main] create session schedule
+2022-12-07 18:30:08,304 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:08,304 INFO r.s.S.SessionSchedule [main] create session schedule
+2022-12-07 18:30:08,305 INFO r.s.S.StudyGroup [main] create study group
+2022-12-07 18:30:08,308 INFO r.s.S.Discipline [main] discipline create
+2022-12-07 18:30:08,309 INFO r.s.D.DataBaseProvider [main] get discipline by id=1
+2022-12-07 18:30:08,310 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:08,310 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:08,310 INFO r.s.S.ClassesSchedule [main] create classes schedule
+2022-12-07 18:30:08,311 INFO r.s.S.ScheduleFactory [main] create CLASSES in factory
+2022-12-07 18:30:08,311 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:08,313 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:08,314 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:08,314 INFO r.s.S.SessionSchedule [main] create session schedule
+2022-12-07 18:30:08,314 INFO r.s.S.ScheduleFactory [main] create SESSION in factory
+2022-12-07 18:30:08,315 INFO r.s.S.Event [main] Create event
+2022-12-07 18:30:08,316 INFO r.s.S.Event [main] Create event
+2022-12-07 18:30:08,317 INFO r.s.S.Schedule [main] event Архитектура Информационных систем append to SESSION schedule
+2022-12-07 18:30:08,317 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:08,317 INFO r.s.S.Schedule [main] create schedule
+2022-12-07 18:30:08,317 INFO r.s.S.EventsSchedule [main] create events schedule
+2022-12-07 18:30:08,318 INFO r.s.S.ScheduleFactory [main] create EVENTS in factory
+2022-12-07 18:30:08,319 INFO r.s.S.Discipline [main] discipline create
+2022-12-07 18:30:08,321 INFO r.s.D.DataBaseProvider [main] get discipline by id=1
+2022-12-07 18:30:08,325 ERROR r.s.D.DataBaseProvider [main] scores record has already been saved
+2022-12-07 18:30:08,328 INFO r.s.S.Discipline [main] discipline create
+2022-12-07 18:30:08,330 INFO r.s.D.DataBaseProvider [main] get discipline by id=1
+2022-12-07 18:30:08,342 INFO r.s.D.DataBaseProvider [main] save record
+2022-12-07 18:30:08,344 ERROR r.s.D.DataBaseProvider [main] schedule record with id=2 has already been saved
+2022-12-07 18:30:08,353 INFO r.s.D.DataBaseProvider [main] connection close

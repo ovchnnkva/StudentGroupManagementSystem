@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<wrapper>
+    <wrapper>
+        <entry>
+            <key>1</key>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="schedule">
+                <id>1</id>
+                <typeSchedule>CLASSES</typeSchedule>
+            </value>
+        </entry>
+    </wrapper>
+</wrapper>

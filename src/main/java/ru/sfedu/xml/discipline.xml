@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<wrapper>
+    <wrapper>
+        <entry>
+            <key>1</key>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="discipline">
+                <name>Архитектура Информационных Систем</name>
+                <idTeacher>1</idTeacher>
+                <disciplineId>1</disciplineId>
+            </value>
+        </entry>
+        <entry>
+            <key>2</key>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="discipline">
+                <name>Философия</name>
+                <idTeacher>2</idTeacher>
+                <disciplineId>2</disciplineId>
+            </value>
+        </entry>
+        <entry>
+            <key>3</key>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="discipline">
+                <name>Основы системного анализа</name>
+                <idTeacher>3</idTeacher>
+                <disciplineId>3</disciplineId>
+            </value>
+        </entry>
+        <entry>
+            <key>4</key>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="discipline">
+                <name>Основы программирования</name>
+                <idTeacher>0</idTeacher>
+                <disciplineId>4</disciplineId>
+            </value>
+        </entry>
+    </wrapper>
+</wrapper>

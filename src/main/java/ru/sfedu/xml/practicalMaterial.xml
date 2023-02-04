@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<wrapper>
+    <wrapper>
+        <entry>
+            <key>1</key>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="practicalMaterial" idPractical="1" disciplineId="1">
+                <discipline>
+                    <name>Архитектура Информационных Систем</name>
+                    <idTeacher>1</idTeacher>
+                    <disciplineId>1</disciplineId>
+                </discipline>
+                <teachersFile></teachersFile>
+                <teacherComment></teacherComment>
+                <name>UML UseCase Diagram</name>
+                <studentFile></studentFile>
+                <maximumScore>5</maximumScore>
+                <studentScore>0</studentScore>
+                <studentComment></studentComment>
+                <deadline>2022-10-10T23:59:00+03:00</deadline>
+            </value>
+        </entry>
+    </wrapper>
+</wrapper>
